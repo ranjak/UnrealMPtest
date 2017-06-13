@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{203E2D3D-0106-000B-0025-02D22D12B36B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "mp_test",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
